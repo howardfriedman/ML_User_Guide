@@ -11,6 +11,7 @@ Start Screen
 Outcome type Screen
 
 Supervised Learning Binary/Categorical Outcome Screen
+![image](https://user-images.githubusercontent.com/25888953/51259375-00b3d200-197a-11e9-98e7-6063f97975b1.PNG)
 
 Supervised Learning Interval Outcome Screen
 
