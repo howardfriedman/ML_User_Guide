@@ -14,10 +14,10 @@ Outcome type Screen
 ![image](https://user-images.githubusercontent.com/25888953/51259375-00b3d200-197a-11e9-98e7-6063f97975b1.PNG)
 
 Supervised Learning Binary/Categorical Outcome Screen
-
+![image](https://user-images.githubusercontent.com/25888953/51259542-62743c00-197a-11e9-9912-71bbf06da016.PNG)
 
 Supervised Learning Interval Outcome Screen
 ![image](https://user-images.githubusercontent.com/25888953/51259562-6ef89480-197a-11e9-9612-3cbcd6333968.PNG)
 
 Unsupervised Learning Screen
-![image](https://user-images.githubusercontent.com/25888953/51259542-62743c00-197a-11e9-9912-71bbf06da016.PNG)
+
