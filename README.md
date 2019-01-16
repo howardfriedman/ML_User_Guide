@@ -11,10 +11,10 @@ Start Screen
 ![image](https://user-images.githubusercontent.com/25888953/51258007-eb897400-1976-11e9-9837-fea08da5b024.PNG)
 
 Outcome type Screen
-![image]
+![image](https://user-images.githubusercontent.com/25888953/51259375-00b3d200-197a-11e9-98e7-6063f97975b1.PNG)
 
 Supervised Learning Binary/Categorical Outcome Screen
-![image](https://user-images.githubusercontent.com/25888953/51259375-00b3d200-197a-11e9-98e7-6063f97975b1.PNG)
+
 
 Supervised Learning Interval Outcome Screen
 ![image](https://user-images.githubusercontent.com/25888953/51259562-6ef89480-197a-11e9-9612-3cbcd6333968.PNG)
